@@ -15,5 +15,5 @@ Autumn: 擬似対話篇『カリクレスI』概念の形成作用(苦痛)につ
 [0]Semester 2020 [GoogleDrive link](https://drive.google.com/drive/folders/1PpVyDwtWICoY1yIWs67ALgaFBQG-2TNN?usp=sharing)
 仏教的考察、経済学、心理学  
 
-[要約]Other files [GoogleDrive link](https://drive.google.com/drive/folders/1zIUYqqEbTcTLnMwDrM2SxkLL84-QJ4Ii?usp=share_link)  
-カント『永遠平和のために』、ルソー『社会契約論』、マキャヴェリ『君主論』、プラトン『国家』、ホッブズ『リヴァイアサン』、トゥキュディデス『戦史』
+[]Other files [GoogleDrive link](https://drive.google.com/drive/folders/1zIUYqqEbTcTLnMwDrM2SxkLL84-QJ4Ii?usp=share_link)  
+古典の要約：カント『永遠平和のために』、ルソー『社会契約論』、マキャヴェリ『君主論』、プラトン『国家』、ホッブズ『リヴァイアサン』、トゥキュディデス『戦史』
